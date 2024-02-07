@@ -58,7 +58,7 @@ The folder structure should be organized as follows:
 ## Evaluation
 
 ```bash
-cd faster-rcnn
+cd UAV-Frequency
 unzip lib.zip -d lib
 mkdir output
 mkdir model_zoo
