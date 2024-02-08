@@ -1,6 +1,6 @@
 # Towards Generalized UAV Object Detection: A Novel Perspective from Frequency Domain Disentanglement
 
-We have released the code for our paper "Towards Generalized UAV Object Detection: A Novel Perspective from Frequency Domain Disentanglement"， which is submitted to IJCV. It is an extension of our CVPR 2023 paper "Generalized UAV Object Detection via Frequency Domain Disentanglement", with our code using Faster-RCNN as the exemplified detection network.
+We have released the code for our paper "Towards Generalized UAV Object Detection: A Novel Perspective from Frequency Domain Disentanglement"，which is submitted to IJCV. It is an extension of our CVPR 2023 paper "Generalized UAV Object Detection via Frequency Domain Disentanglement", with our code using Faster-RCNN as the exemplified detection network.
 
 <div align=center>
 <img width="100%" src="imgs/method.png"/>
